@@ -1,10 +1,10 @@
 ---
 title: "Measurement"
 layout: single
+collection: research
 type: "research"
 permalink: /research/measure
 excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
-collection: research
 order_number: 30
 header: 
    og_image: "images/research/Agreement-Strength.png"

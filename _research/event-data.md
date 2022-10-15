@@ -1,10 +1,10 @@
 ---
 title: "Conflict event data"
 layout: single
-type: "research"
-permalink: /research/measure
-excerpt: "<img src='/images/research/map.png' alt=''>"
 collection: research
+type: "research"
+permalink: /research/event-data
+excerpt: "<img src='/images/research/map.png' alt=''>"
 order_number: 20
 header: 
   og_image: "images/research/map.png"
