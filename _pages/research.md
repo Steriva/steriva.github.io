@@ -3,6 +3,8 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+header:
+  og_image: "research/ecdf.png"
 ---
 
 My academic research falls into two main areas: understanding the influence of
