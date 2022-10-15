@@ -1,9 +1,9 @@
 ---
-title: "Measurement"
-layout: single
+title: "Reduced Order Modelling for Data Assimilation"
+layout: single-portfolio
 collection: research
 type: "research"
-permalink: /research/measure
+permalink: /research/ROM-DA
 excerpt: "<img src='/images/research/Agreement-Strength.png' alt=''>"
 order_number: 30
 header: 

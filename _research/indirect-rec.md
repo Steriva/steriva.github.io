@@ -1,9 +1,9 @@
 ---
-title: "Conflict event data"
+title: "Indirect Reconstruction of complex fields"
 layout: single
 collection: research
 type: "research"
-permalink: /research/event-data
+permalink: /research/IR
 excerpt: "<img src='/images/research/map.png' alt=''>"
 order_number: 20
 header: 
