@@ -3,11 +3,9 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
 ---
 
-My academic research falls into three main areas: the development of Reduced Order Models for Multi-Physics systems, the integration of experimental data with mathematical models and the investigation of techniques able to reconstruct complex fields from the measure of other variables, easier to be detected.
+My academic research falls into three main areas: the development of Reduced Order Models (ROM) for multi-physics systems, the integration of experimental data with mathematical models and the investigation of techniques able to reconstruct complex fields from the measure of other variables, easier to be detected.
 
 <nbsp>
 
