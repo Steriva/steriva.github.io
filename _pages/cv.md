@@ -7,35 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+(Updated at 15th October 2022)
 
-Education
-======
-* Bachelor Degree in Energy Engineering, Politecnico di Milano, 2019
-* Master of Science in Nuclear Engineering (*cum Laude*), Politecnico di Milano, 2021
-* Ph.D in Energy and Nuclear Science and Technology, Politecnico di Milano, 2025 (expected)
+<iframe src="/files/pdf/Riva_CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-Skills
-======
-* Mathematical Modelling of Nuclear Reactors
-* Numerical Methods for Engineering
-  * Finite Elements
-  * Finite Volumes
-  * Reduced Order Modelling
-* Thermal Fluid Dynamics 
-* Programming
-
-Language
-======
-* Native italian speaker
-* Fluent in English (TOEIC Certification, February 2019, 930/990)
-
-Programming Skills
-======
-* **Operating Systems**: Windows, macOS, Linux
-* **Languages**: Python (advanced), C++ (intermediate), VisualBasic (basic), R (basics) 
-* **Numerical Computing Environments**: MATLAB, Simulink
-* **Finite Element Solvers**: Freefem++, FEniCSx
-* **Computational Fluid Dynamics**: OpenFOAM, Ansys FLUENT
-* **Developer Tools**: Git, Visual Studio
-* **Other**: Microsoft Office, iMovie
+You can download a PDF copy of my CV [here](/files/pdf/Riva_CV.pdf).
