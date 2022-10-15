@@ -182,6 +182,9 @@ collections:
   conference:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -209,6 +212,15 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 # Sass/SCSS
 sass:
