@@ -211,62 +211,6 @@
       "releaseDate": "2023-09-15",
       "url": "https://www.sciencedirect.com/science/article/pii/S0306454923001834",
       "summary": "This paper investigates hybrid data assimilation methods by comparing the Generalized Empirical Interpolation Method (GEIM) and the Parameterized-Background Data-Weak (PBDW) approach on a 3D Backward Facing Step airflow benchmark. The study highlights their effectiveness in noisy data environments, with GEIM outperforming PBDW in terms of lower reconstruction error and fewer sensors required."
-    },
-    {
-      "name": "Hybrid Data Assimilation methods, Part II: Application to the DYNASTY experimental facility",
-      "publisher": "Annals of Nuclear Energy",
-      "release_date": "2023-09-15",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0306454923001822",
-      "summary": "This paper investigates the application of Hybrid Data Assimilation (HDA) methods to the DYNASTY experimental facility, aiming to combine Model Order Reduction techniques with Data Assimilation to estimate system states from sparse measurements in nuclear reactor systems. The methods are tested on experimental data and validated for real-world applications in the context of natural circulation."
-    },
-    {
-      "name": "A finite element implementation of the incompressible Schrödinger flow method",
-      "publisher": "Physics of Fluids",
-      "release_date": "2024-01-25",
-      "url": "https://doi.org/10.1063/5.0180356",
-      "summary": "This article explores a finite element implementation of the incompressible Schrödinger flow method, a novel approach for simulating inviscid fluids. The paper presents case studies and shows that this method may offer computational advantages over traditional methods in fluid dynamics, especially for complex geometries and real-world applications."
-    },
-    {
-      "name": "Data-driven model order reduction for sensor positioning and indirect reconstruction with noisy data: Application to a Circulating Fuel Reactor",
-      "publisher": "Nuclear Engineering and Design",
-      "release_date": "2024-01-25",
-      "url": "https://www.sciencedirect.com/science/article/pii/S002954932400205X",
-      "summary": "This work applies data-driven model order reduction (MOR) to optimize sensor positioning and reconstruct non-observable fields in the core of a Circulating Fuel Reactor (CFR). The study uses reduced-order modeling techniques to handle noisy data and demonstrates their applicability in reactor safety and monitoring."
-    },
-    {
-      "name": "OFELIA: An OpenMC-FEniCSx coupling for neutronic calculation with temperature feedback",
-      "publisher": "Nuclear Engineering and Design",
-      "release_date": "2024-05-01",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0029549324005806",
-      "summary": "The article presents OFELIA, a multi-physics tool coupling OpenMC Monte Carlo simulations for neutron physics with FEniCSx for thermal-hydraulic analysis. The coupling strategy is applied to determine the temperature profile of a PWR fuel pin, and the results are compared with literature data to validate the approach."
-    },
-    {
-      "name": "Multi-physics model bias correction with data-driven reduced order techniques: Application to nuclear case studies",
-      "publisher": "Applied Mathematical Modelling",
-      "release_date": "2024-11-01",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0307904X24003196",
-      "summary": "This paper investigates the use of data-driven reduced-order modeling (ROM) techniques for model bias correction in multi-physics nuclear reactor simulations. It focuses on correcting inaccuracies in models by incorporating real-time data to improve the efficiency and accuracy of nuclear reactor simulations."
-    },
-    {
-      "name": "Application of a non-intrusive reduced order modeling approach to magnetohydrodynamics",
-      "publisher": "Physics of Fluids",
-      "release_date": "2024-10-29",
-      "url": "https://doi.org/10.1063/5.0230708",
-      "summary": "The study applies reduced-order modeling (ROM) techniques to magnetohydrodynamics (MHD) simulations, demonstrating how ROM can improve computational efficiency while preserving accuracy. The focus is on simulating MHD flows in the context of fusion reactors and validating the ROM approach through case studies."
-    },
-    {
-      "name": "Impact of Malfunctioning Sensors on Data-Driven Reduced Order Modelling: Application to Molten Salt Reactors",
-      "publisher": "EPJ Web Conf",
-      "release_date": "2024-10-15",
-      "url": "https://doi.org/10.1051/epjconf/202430217003",
-      "summary": "This work explores the impact of malfunctioning sensors on data-driven reduced-order modeling (ROM) for Molten Salt Reactors. It examines how sensor failures affect the performance of ROM techniques and proposes strategies to mitigate their effects in reactor monitoring and control."
-    },
-    {
-      "name": "Real-Time State Estimation of Neutron Flux in Molten Salt Fast Reactors from Out-core Sparse Measurements",
-      "publisher": "arXiv",
-      "release_date": "2024-09-19",
-      "url": "https://arxiv.org/abs/2409.12550",
-      "summary": "This preprint discusses a method for real-time state estimation of neutron flux in Molten Salt Fast Reactors using sparse out-core measurements. The study introduces a shallow recurrent decoder to improve state estimation in reactors with limited sensor coverage."
     }
   ]
 }
