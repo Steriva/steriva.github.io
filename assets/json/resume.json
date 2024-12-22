@@ -263,7 +263,7 @@
     },
     {
       "name": "Real-Time State Estimation of Neutron Flux in Molten Salt Fast Reactors from Out-core Sparse Measurements",
-      "publisher": "under review at Nuclear Science and Engineering",
+      "publisher": "arXiv",
       "release_date": "2024-09-19",
       "url": "https://arxiv.org/abs/2409.12550",
       "summary": "This preprint discusses a method for real-time state estimation of neutron flux in Molten Salt Fast Reactors using sparse out-core measurements. The study introduces a shallow recurrent decoder to improve state estimation in reactors with limited sensor coverage."
