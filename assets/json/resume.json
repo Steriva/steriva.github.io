@@ -222,7 +222,7 @@
     {
       "name": "A finite element implementation of the incompressible Schrödinger flow method",
       "publisher": "Physics of Fluids",
-      "release_date": "2024",
+      "release_date": "2024-01-25",
       "url": "https://doi.org/10.1063/5.0180356",
       "summary": "This article explores a finite element implementation of the incompressible Schrödinger flow method, a novel approach for simulating inviscid fluids. The paper presents case studies and shows that this method may offer computational advantages over traditional methods in fluid dynamics, especially for complex geometries and real-world applications."
     },
@@ -236,7 +236,7 @@
     {
       "name": "OFELIA: An OpenMC-FEniCSx coupling for neutronic calculation with temperature feedback",
       "publisher": "Nuclear Engineering and Design",
-      "release_date": "2024-11-01",
+      "release_date": "2024-05-01",
       "url": "https://www.sciencedirect.com/science/article/pii/S0029549324005806",
       "summary": "The article presents OFELIA, a multi-physics tool coupling OpenMC Monte Carlo simulations for neutron physics with FEniCSx for thermal-hydraulic analysis. The coupling strategy is applied to determine the temperature profile of a PWR fuel pin, and the results are compared with literature data to validate the approach."
     },
@@ -256,7 +256,7 @@
     },
     {
       "name": "Impact of Malfunctioning Sensors on Data-Driven Reduced Order Modelling: Application to Molten Salt Reactors",
-      "publisher": "EPJ Web Conf.",
+      "publisher": "EPJ Web Conf",
       "release_date": "2024-10-15",
       "url": "https://doi.org/10.1051/epjconf/202430217003",
       "summary": "This work explores the impact of malfunctioning sensors on data-driven reduced-order modeling (ROM) for Molten Salt Reactors. It examines how sensor failures affect the performance of ROM techniques and proposes strategies to mitigate their effects in reactor monitoring and control."
