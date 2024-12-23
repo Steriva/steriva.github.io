@@ -31,41 +31,29 @@
       "organization": "Oratorio San Luigi",
       "location": "Cinisello Balsamo, Italy",
       "position": "Adolescents’ Educator",
-      "url": "",
       "startDate": "2014-09-01",
-      "endDate": "2020-09-30",
-      "summary": "",
-      "highlights": [""]
+      "endDate": "2020-09-30"
     },
     {
       "organization": "Oratorio San Luigi",
       "location": "Cinisello Balsamo, Italy",
       "position": "Adolescents’ Educator ",
-      "url": "",
       "startDate": "2022-09-01",
-      "endDate": "2024-09-30",
-      "summary": "",
-      "highlights": [""]
+      "endDate": "2024-09-30"
     },
     {
       "organization": "Stella Azzurra '56, Oratorio San Luigi",
       "location": "Cinisello Balsamo, Italy",
       "position": "Football Coach",
-      "url": "",
       "startDate": "2012-09-01",
-      "endDate": "2017-06-30",
-      "summary": "",
-      "highlights": [""]
+      "endDate": "2017-06-30"
     },
     {
       "organization": "Depramirao",
       "location": "Cinisello Balsamo, Italy",
       "position": "Actor for no-profit theatre",
-      "url": "",
       "startDate": "2013-04-01",
-      "endDate": "2017-11-30",
-      "summary": "",
-      "highlights": [""]
+      "endDate": "2017-11-30"
     }
   ],
   "education": [
@@ -96,23 +84,17 @@
     {
       "title": "Best Master Thesis in Engineering",
       "date": "2022-09-27",
-      "awarder": "Cultural Association CISE2007",
-      "url": "",
-      "summary": ""
+      "awarder": "Cultural Association CISE2007"
     },
     {
       "title": "Best Paper award",
       "date": "2023-04-26",
-      "awarder": "ICAPP-2023 Conference",
-      "url": "",
-      "summary": ""
+      "awarder": "ICAPP-2023 Conference"
     },
     {
       "title": "Best Student Paper award",
       "date": "2024-08-28",
-      "awarder": "NUTHOS-14 Conference",
-      "url": "",
-      "summary": ""
+      "awarder": "NUTHOS-14 Conference"
     }
   ],
   "skills": [
