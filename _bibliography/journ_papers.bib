@@ -2,6 +2,8 @@
 ---
 
 @article{TR_GEIM,
+  abbr = {CMAME},
+  bibtex_show = {true},
 title = {{Stabilization of Generalized Empirical Interpolation Method (GEIM) in presence of noise: A novel approach based on Tikhonov regularization}},
 journal = {Computer Methods in Applied Mechanics and Engineering},
 volume = {404},
@@ -10,12 +12,14 @@ year = {2023},
 issn = {0045-7825},
 doi = {https://doi.org/10.1016/j.cma.2022.115773},
 url = {https://www.sciencedirect.com/science/article/pii/S0045782522007290},
-author = {Carolina Introini and Simone Cavalleri and Stefano Lorenzi and \underline{\textbf{Stefano Riva}} and Antonio Cammi},
+author = {Carolina Introini and Simone Cavalleri and Stefano Lorenzi and Stefano Riva and Antonio Cammi},
 keywords = {GEIM, Tikhonov Regularization, Noise stabilization, Model order reduction, Data assimilation},
 abstract = {The Empirical Interpolation Method (EIM), and its generalized version (GEIM), are non-intrusive, reduced-basis model order reduction methods hereby adopted and modified to address the problem of optimal placement of sensors and real-time estimation in thermo-hydraulics systems. These techniques have been used to extract the characteristic spatial modes of the system and select a set of points (or functionals) corresponding to the optimal locations for the sensors. Collecting experimental measurements in the available points allows the construction of an empirical interpolation of the fields employed to estimate the variable of interest. However, when these data are affected by noise, the (G)EIM loses its good convergence properties. In this context, stabilization techniques allow good field reconstruction even with noisy data. This work provides an alternative and effective solution to the problem of reconstructing the system state in the presence of experimental data affected by random noise by using the Tikhonov regularization technique. The developed methods have been tested on a simple thermo-fluid dynamics problem known as “two-sided lid-driven differentially heated square cavity”.}
 }
 
 @article{INTROINI2023109538,
+  abbr = {ANE},
+  bibtex_show = {true},
 title = {Non-intrusive system state reconstruction from indirect measurements: A novel approach based on Hybrid Data Assimilation methods},
 journal = {Annals of Nuclear Energy},
 volume = {182},
@@ -24,12 +28,14 @@ year = {2023},
 issn = {0306-4549},
 doi = {https://doi.org/10.1016/j.anucene.2022.109538},
 url = {https://www.sciencedirect.com/science/article/pii/S0306454922005680},
-author = {Carolina Introini and \underline{\textbf{Stefano Riva}} and Stefano Lorenzi and Simone Cavalleri and Antonio Cammi},
+author = {Carolina Introini and Stefano Riva and Stefano Lorenzi and Simone Cavalleri and Antonio Cammi},
 keywords = {Indirect reconstruction, GEIM, POD-I, Reduced order modelling, Data assimilation},
 abstract = {The problem of estimating in real-time the state of a system by combining experimental data and models has been extensively addressed in literature. In particular, there have been a lot of developments in reduced order modelling techniques integrated in a data assimilation framework. This coupling allows to reconstruct the variable of interest considering a priori knowledge (i.e. the mathematical model) and some measurements of it. However, in some engineering systems not all the variables of interest may be measurable and hence the typical framework cannot be applied. However, these methods can be extended to reconstruct the full state of a system, by means of partial observations only. In this work, a novel approach will be introduced, based on a two step method: first the measurements are used to determine the parameters describing the system; then, the full state is estimated by means of reduced order modelling techniques. This new approach will be compared with the state-of-the-art both on a simple thermal hydraulics case and on an innovative nuclear reactor design, the Molten Salt Fast Reactor.}
 }
 
 @article{RIVA2023109864,
+  abbr = {ANE},
+  bibtex_show = {true},
 title = {{Hybrid data assimilation methods, Part I: Numerical comparison between GEIM and PBDW}},
 journal = {Annals of Nuclear Energy},
 volume = {190},
@@ -38,12 +44,14 @@ year = {2023},
 issn = {0306-4549},
 doi = {https://doi.org/10.1016/j.anucene.2023.109864},
 url = {https://www.sciencedirect.com/science/article/pii/S0306454923001834},
-author = {\underline{\textbf{Stefano Riva}} and Carolina Introini and Stefano Lorenzi and Antonio Cammi},
+author = {Stefano Riva and Carolina Introini and Stefano Lorenzi and Antonio Cammi},
 keywords = {GEIM, PBDW, Model order reduction, Data assimilation, Thermal hydraulics},
 abstract = {Hybrid Data Assimilation (HDA) methods are a class of numerical methods that aim at integrating Model Order Reduction (MOR) techniques into a Data Assimilation (DA) framework, thus combining mathematical models and experimental data. The objective is to reduce the solution time using MOR algorithms whilst keeping the accuracy of the models at the desired level using observations, which serve as an update to the a priori prediction of the model. This two-part work investigated HDA techniques by applying them to two classes of problems: numerical benchmark cases (part 1) and experimental facilities (part 2). In particular, this paper discusses the former, focusing on the numerical formulation of the methodologies and on the effect of noisy data. Indeed, real-world experimental data are always polluted by errors and uncertainties; therefore, it is critical to first assess the performance of these techniques on numerical benchmark cases with the artificial introduction of random noise before applying them to real-world experimental facilities. As such, this paper applies the Generalised Empirical Interpolation Method (GEIM) and the Parameterised-Background Data-Weak (PBDW) formulation to a non-adiabatic airflow over the classical computational fluid-dynamics benchmark of the 3D Backward Facing Step (BFS). Results show how both algorithms are valuable tools to reconstruct the state of the system when measurements are available, whilst assessing the effect of noise on the available data; in particular, the GEIM is a bit better than the PBDW since a lower reconstruction error is achieved with fewer sensors.}
 }
 
 @article{RIVA2023109863,
+  abbr = {ANE},
+  bibtex_show = {true},
 title = {{Hybrid Data Assimilation methods, Part II: Application to the DYNASTY experimental facility}},
 journal = {Annals of Nuclear Energy},
 volume = {190},
@@ -52,14 +60,16 @@ year = {2023},
 issn = {0306-4549},
 doi = {https://doi.org/10.1016/j.anucene.2023.109863},
 url = {https://www.sciencedirect.com/science/article/pii/S0306454923001822},
-author = {\underline{\textbf{Stefano Riva}} and Carolina Introini and Stefano Lorenzi and Antonio Cammi},
+author = {Stefano Riva and Carolina Introini and Stefano Lorenzi and Antonio Cammi},
 keywords = {GEIM, PBDW, Indirect Reconstruction, Model Order Reduction, Data Assimilation, DYNASTY},
 abstract = {Hybrid Data Assimilation (HDA) methods aim at combining the advantages of mathematical models and experimental observations by integrating Model Order Reduction techniques into a Data Assimilation framework, thus reducing the solution time whilst keeping the accuracy of the models to the desired level. HDA methods provide tools able to estimate the state of a system assuming to have measurements available per each field describing the system (e.g., neutron flux, temperature, velocity, …). However, it is not always possible to measure every field of interest for various reasons, thus these techniques should be adapted: in particular, it is legitimate to investigate the possibility of extracting some information from indirect measurement. Following the assessment of the two selected HDA methods (Generalised Empirical Interpolation Method and Parameterised Background Data-Weak) performed on a numerical benchmark test case discussed in the first part of this two-part work, the present paper now deals with their testing on a real-world experimental facility and their validation with experimental data. This work represents the first step for a deep validation phase to assess their efficiency and reliability, applying the Generalised Empirical Interpolation Method (GEIM), the Parameterised-Background Data-Weak (PBDW) formulation and the Indirect Reconstruction (IR) algorithm to DYNASTY, an experimental facility for studying natural circulation built at Politecnico di Milano. The robustness of these methods is high when the models are accurate, however when real system are analysed the model discrepancy can be present and these techniques may suffer.}
 }
 
 
 @article{ISF_2023,
-    author = {\textbf{\underline{Stefano Riva}} and Introini, Carolina and Cammi, Antonio},
+  abbr = {PoF},
+  bibtex_show = {true},
+    author = {Stefano Riva and Introini, Carolina and Cammi, Antonio},
     title = "{A finite element implementation of the incompressible Schrödinger flow method}",
     journal = {Physics of Fluids},
     volume = {36},
@@ -75,6 +85,8 @@ abstract = {Hybrid Data Assimilation (HDA) methods aim at combining the advantag
 }
 
 @article{DDMOR_CFR,
+  abbr = {NED},
+  bibtex_show = {true},
 title = {{Data-driven model order reduction for sensor positioning and indirect reconstruction with noisy data: Application to a Circulating Fuel Reactor}},
 journal = {Nuclear Engineering and Design},
 volume = {421},
@@ -83,12 +95,14 @@ year = {2024},
 issn = {0029-5493},
 doi = {https://doi.org/10.1016/j.nucengdes.2024.113105},
 url = {https://www.sciencedirect.com/science/article/pii/S002954932400205X},
-author = {Antonio Cammi and \underline{\textbf{Stefano Riva}} and Carolina Introini and Lorenzo Loi and Enrico Padovani},
+author = {Antonio Cammi and Stefano Riva and Carolina Introini and Lorenzo Loi and Enrico Padovani},
 keywords = {Hybrid Data-Assimilation, Generalized Empirical Interpolation Method, Indirect Reconstruction, Sensors positioning, Molten Salt Fast Reactor, Noisy data},
 abstract = {Sensor positioning and real-time estimation of non-observable fields is an open question in the nuclear sector, especially for advanced nuclear reactors. In Circulating Fuel Reactors (CFR), liquid fuel and coolant are homogeneously mixed, and thus these reactors will not have internal structures, making sensor positioning in the primary circuit, including the core, an unresolved problem, making most of the core blind to sensors. Thus, the possibility of estimating the system state in the whole domain using a few local measurements has important implications for safety, monitoring, and control both in nominal and accidental conditions. In this context, the integrated Model Order Reduction and Data Assimilation framework offers intriguing opportunities to reliably combine experimental data and background knowledge from a reduced mathematical model. This work discusses and applies innovative methods within this framework, based on the Generalized Empirical Interpolation and the Indirect Reconstruction algorithms, to a proposed concept of CFR. This work aims to identify the optimal sensor positioning within the core and assess the feasibility of reconstructing the quantities of interest starting only from transient sparse data on fuel temperature, possibly noisy, and testing the predictive capabilities of the discussed methods.}
 }
 
 @article{LOI2024113480,
+  abbr = {NED},
+  bibtex_show = {true},
 title = {{OFELIA: An OpenMC-FEniCSx coupling for neutronic calculation with temperature feedback}},
 journal = {Nuclear Engineering and Design},
 volume = {428},
@@ -97,12 +111,14 @@ year = {2024},
 issn = {0029-5493},
 doi = {https://doi.org/10.1016/j.nucengdes.2024.113480},
 url = {https://www.sciencedirect.com/science/article/pii/S0029549324005806},
-author = {Lorenzo Loi and \textbf{\underline{Stefano Riva}} and Carolina Introini and Francesca Giacobbo and Xiang Wang and Antonio Cammi},
+author = {Lorenzo Loi and Stefano Riva and Carolina Introini and Francesca Giacobbo and Xiang Wang and Antonio Cammi},
 keywords = {OpenMC, FEniCSx, Nuclear reactor, Monte Carlo, Thermal hydraulics},
 abstract = {The state of an operating nuclear reactor depends on several physical phenomena that coexist and are interdependent: they can be taken into account simultaneously by adopting a multi-physics approach, allowing a higher level of detail of the system’s properties. Neutron physics and thermal hydraulics are of great importance in this framework, their interdependence being the most fundamental coupling effect in nuclear reactors, as their interaction determines the power and temperature profiles, being quantities of interest during the design and safety analysis phases. This work focuses on developing a fully open-source multi-physics and multi-scale tool capable of determining the temperature profile of a characteristic fuel pin of a PWR when the power generated by the system is known. This methodology is implemented in a Python environment coupling the open source library FEniCSx for the thermal-hydraulic analysis with the OpenMC Monte Carlo code for the description of the fissionable system: regarding the former, FEniCSx handles the thermal calculations, whereas a 1D model is used to predict the axial coolant temperature distribution. The coupling applies an explicit method, whose convergence is based on a Picard scheme, using an adaptive relaxation scheme. This coupling strategy is compared with literature data, providing a good agreement with a fully Multi-Physics solver.}
 }
 
 @article{RIVA2024243,
+  abbr = {AMM},
+  bibtex_show = {true},
 title = {Multi-physics model bias correction with data-driven reduced order techniques: Application to nuclear case studies},
 journal = {Applied Mathematical Modelling},
 volume = {135},
@@ -111,13 +127,15 @@ year = {2024},
 issn = {0307-904X},
 doi = {https://doi.org/10.1016/j.apm.2024.06.040},
 url = {https://www.sciencedirect.com/science/article/pii/S0307904X24003196},
-author = {\underline{\textbf{Stefano Riva}} and Carolina Introini and Antonio Cammi},
+author = {Stefano Riva and Carolina Introini and Antonio Cammi},
 keywords = {Reduced order modelling, Data driven, Nuclear reactors, Multi-physics, Model correction},
 abstract = {Due to the multiple physics involved and their mutual and complex interactions, nuclear engineers and researchers are constantly working on developing highly accurate Multi-Physics models, focusing in particular on the core coupling of Neutronics and Thermal-Hydraulics. Nevertheless, the development of accurate and stable models remains a challenging task despite the advancements in computational hardware and software. This work investigates the possibility of combining the available mathematical model with data collected on physical systems, with a two-fold goal: improvement of the performance of the former from the computational point of view without sacrificing accuracy and performing model bias correction with the knowledge coming in real-time from the system. In particular, two Data-Driven Reduced Order Modelling techniques, the Generalised Empirical Interpolation Method and the Parametrised-Background Data-Weak formulation, are applied to literature benchmark nuclear case studies, as they were observed to be quite well suited for the chosen cases. The main goal of this work is to assess the possibility of using external data to perform model bias correction: starting from a purposefully less accurate, but computationally cheaper base model, then using high-fidelity data to update and correct the model efficiently. Indeed, the numerical results obtained in this paper are promising, confirming the feasibility of this approach to develop computationally cheap and accurate multi-physics models; furthermore, investigation of Data-Driven Reduced Order Modelling approach to nuclear industrial cases, in the context of model bias correction, is foreseen.}
 }
 
 @article{MHD_ROM_2024,
-    author = {Lo Verso, M. and \underline{\textbf{Stefano Riva}} and Introini, C. and Cervi, E. and Giacobbo, F. and Savoldi, L. and Di Prinzio, M. and Caramello, M. and Barucca, L. and Cammi, A.},
+  abbr = {PoF},
+  bibtex_show = {true},
+    author = {Lo Verso, M. and Stefano Riva and Introini, C. and Cervi, E. and Giacobbo, F. and Savoldi, L. and Di Prinzio, M. and Caramello, M. and Barucca, L. and Cammi, A.},
     title = "{Application of a non-intrusive reduced order modeling approach to magnetohydrodynamics}",
     journal = {Physics of Fluids},
     volume = {36},
@@ -134,7 +152,9 @@ abstract = {Due to the multiple physics involved and their mutual and complex in
 
 
 @article{ SNAMC2024,
-	author = {\textbf{\underline{Stefano Riva}} and Introini, Carolina and Zio, Enrico and Cammi, Antonio},
+  abbr = {EPJWebConf},
+  bibtex_show = {true},
+	author = {Stefano Riva and Introini, Carolina and Zio, Enrico and Cammi, Antonio},
 	title = {Impact of Malfunctioning Sensors on Data-Driven Reduced Order Modelling: Application to Molten Salt Reactors},
 	DOI= "10.1051/epjconf/202430217003",
 	url= "https://doi.org/10.1051/epjconf/202430217003",
@@ -146,6 +166,8 @@ abstract = {Due to the multiple physics involved and their mutual and complex in
 
 
 @article{pyforce2024, 
+  abbr = {JOSS},
+  bibtex_show = {true},
 doi = {}, 
 url = {}, 
 year = {2024}, 
@@ -153,32 +175,37 @@ publisher = {The Open Journal},
 volume = {}, 
 number = {}, 
 pages = {}, 
-author = {\underline{\textbf{Stefano Riva}} and Carolina Introini and Antonio Cammi}, 
+author = {Stefano Riva and Carolina Introini and Antonio Cammi}, 
 title = {pyforce: Python Framework for data-driven model Order Reduction of multi-physiCs problEms}, 
 journal = {under review at Journal of Open Source Software} 
 }
 
 @misc{riva2024robuststateestimationpartial,
-      title={Robust State Estimation from Partial Out-Core Measurements with Shallow Recurrent Decoder for Nuclear Reactors}, 
-      author={\underline{\textbf{Stefano Riva}} and Carolina Introini and Antonio Cammi and J. Nathan Kutz},
-      year={2024},
-      eprint={2409.12550},
-      archivePrefix={arXiv},
-      primaryClass={physics.ins-det},
-      url={https://arxiv.org/abs/2409.12550}, 
-      note={\textit{preprint available at \href{https://arxiv.org/abs/2409.12550}{https://arxiv.org/abs/2409.12550}}}
+  abbr = {arXiv},
+  bibtex_show = {true},
+  title={Robust State Estimation from Partial Out-Core Measurements with Shallow Recurrent Decoder for Nuclear Reactors}, 
+  author={Stefano Riva and Carolina Introini and Antonio Cammi and J. Nathan Kutz},
+  year={2024},
+  eprint={2409.12550},
+  journal = {under review to Progress in Nuclear Energy},
+  archivePrefix={arXiv},
+  primaryClass={physics.ins-det},
+  url={https://arxiv.org/abs/2409.12550}, 
+  note={preprint available at \href{https://arxiv.org/abs/2409.12550}{https://arxiv.org/abs/2409.12550}}
 }
 
 
 @article{MSFR_GPR2024,
-title = {{Enhancing Multi-Physics Modeling in New-Generation Nuclear Reactors Using Machine Learning: Implementing Gaussian Process Regression for Updating Cross Sections}},
-journal = {submitted to Annals of Nuclear Energy},
-volume = {},
-pages = {},
-year = {2024},
-issn = {},
-doi = {},
-url = {},
-author = {Mahdi Aghili Nasr and Lorenzo Loi and \underline{\textbf{Stefano Riva}} and AhmadReda Zolfaghari and Xiang Wang and Antonio Cammi},
+  abbr = {SSRN},
+  bibtex_show = {true},
+  title = {{Enhancing Multi-Physics Modeling in New-Generation Nuclear Reactors Using Machine Learning: Implementing Gaussian Process Regression for Updating Cross Sections}},
+  journal = {under review to Annals of Nuclear Energy},
+  volume = {},
+  pages = {},
+  year = {2024},
+  issn = {},
+  doi = {10.2139/ssrn.5045576},
+  url = {},
+  author = {Mahdi Aghili Nasr and Lorenzo Loi and Stefano Riva and AhmadReda Zolfaghari and Xiang Wang and Antonio Cammi},
 }
 
