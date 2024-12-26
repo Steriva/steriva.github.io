@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Department of Energy, Politecnico di Milano</a>. Via La Masa 34, Milan (Italy), 20156. stefano.riva@polimi.it
 
 profile:
   align: right
