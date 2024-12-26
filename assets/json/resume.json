@@ -100,8 +100,6 @@
   "skills": [
     {
       "name": "Operating system",
-      "level": "",
-      "icon": "",
       "keywords": [
         "MacOS",
         "Windows",
@@ -110,24 +108,18 @@
     },
     {
       "name": "Programming Languages",
-      "level": "",
-      "icon": "",
       "keywords": [
         "Python (advanced)", "C++ (intermediate)", "VisualBasic (intermediate)", "R (basics)"
       ]
     },
     {
       "name": "Numerical Computing Environment",
-      "level": "",
-      "icon": "",
       "keywords": [
         "MATLAB", "Simulink", "dolfinx (Finite Element for Python)", "OpenFOAM"
       ]
     },
     {
       "name": "Machine Learning packages",
-      "level": "",
-      "icon": "",
       "keywords": [
         "scikit-learn", "pyTorch"
       ]
