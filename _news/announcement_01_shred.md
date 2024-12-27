@@ -17,7 +17,7 @@ The code is openly available on [GitHub](https://github.com/ERMETE-Lab/NuSHRED).
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/shred.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/shred.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -29,9 +29,13 @@ Have a look at the videos below to see the SHRED architecture in action:
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/watch?v=76r6WmOehDM&list=PLSH6dleR9E1C1u2qHTxDDqLlc-q5iN_Z7&index=5" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/watch?v=2YdmzPTotww&list=PLSH6dleR9E1C1u2qHTxDDqLlc-q5iN_Z7&index=15" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/watch?v=JYmub3FmssM&list=PLSH6dleR9E1C1u2qHTxDDqLlc-q5iN_Z7&index=4" class="img-fluid rounded z-depth-1" %}
     </div>
