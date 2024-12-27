@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a PhD candidate in *Energy and Nuclear Science and Technology* at Politecnico di Milano. My research focuses on advanced data-driven techniques for state estimation in nuclear reactors, combining reduced-order modeling, machine learning and data assimilation methods.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a Master’s degree in Nuclear Engineering (*cum laude*) from Politecnico di Milano, where my thesis explored reduced basis methods for data assimilation in thermal-hydraulic systems. I have developed tools like **pyforce**, a Python framework for data-driven model reduction in multi-physics problems, and collaborate to **NuSHRED**, a shallow recurrent decoder for nuclear reactor applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In October 2024, I began a six-month research internship at the University of Washington, exploring machine learning applications in state estimation under the guidance of Prof. J. Nathan Kutz.
