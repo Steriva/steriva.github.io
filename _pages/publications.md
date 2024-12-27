@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications by categories in reversed chronological order.
+description: Full list of publications by categories in reversed chronological order, including indexed conferences.
 nav: true
 nav_order: 2
 ---

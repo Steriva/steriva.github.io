@@ -24,6 +24,33 @@
       "endDate": "Ongoing",
       "summary": "PhD student in Energy and Nuclear Science and Engineering. My research interests include reduced order modelling and machine learning for nuclear reactors.",
       "highlights": ["Nuclear Reactors", "Machine Learning", "Reduced Order Modelling", "Python", "Data Assimilation"]
+    },
+    {
+      "name": "Politecnico di Milano",
+      "position": "Teaching Assistant",
+      "url": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2023&k_cf=225&k_corso_la=478&k_indir=X2A&codDescr=055620&lang=IT&semestre=2&anno_corso=1&idItemOfferta=164271&idRiga=295392",
+      "startDate": "2024-02-19",
+      "endDate": "2024-05-31",
+      "summary": "Teaching assistant for the course of Fission Reactor Physics I, taught by prof. Antonio Cammi. My duties include holding theoretical and exercise sessions.",
+      "highlights": ["Neutron Transport", "Neutron Dynamics", "Reactor Kinetics", "Python"]
+    },
+    {
+      "name": "Politecnico di Milano",
+      "position": "Teaching Assistant",
+      "url": "https://www4.ceda.polimi.it/manifesti/manifesti/controller/ManifestoPublic.do?EVN_DETTAGLIO_RIGA_MANIFESTO=evento&aa=2022&k_cf=225&k_corso_la=478&k_indir=X2A&codDescr=055620&lang=IT&semestre=2&anno_corso=1&idItemOfferta=159286&idRiga=281213",
+      "startDate": "2023-02-20",
+      "endDate": "2023-06-01",
+      "summary": "Teaching assistant for the course of Fission Reactor Physics I, taught by prof. Antonio Cammi. My duties include holding exercise sessions in preparation of the written test.",
+      "highlights": ["Neutron Transport", "Neutron Dynamics", "Reactor Kinetics", "Python"]
+    },
+    {
+      "name": "University of Washington",
+      "position": "VISIT PhD Student",
+      "url": "https://www.ece.uw.edu/",
+      "startDate": "2024-10-01",
+      "endDate": "Ongoing",
+      "summary": "VISIT PhD student in the Department of Electrical and Computer Engineering. My research focuses on SHallow REcurrent Decoders for state estimation in nuclear reactors, under the supervision of prof. J. Nathan Kutz.",
+      "highlights": ["Machine Learning", "Reduced Order Modelling", "Python", "Coupled PDEs"]
     }
   ],
   "volunteer": [
@@ -63,7 +90,7 @@
       "url": "https://www.polimi.it/",
       "area": "Nuclear Engineering",
       "studyType": "Master of Science",
-      "startDate": "2019-09-20",
+      "startDate": "2019-09-27",
       "endDate": "2021-12-21",
       "score": "110/110 cum laude",
       "courses": ["Fission Reactor Physics", "Atomic and Nuclear physics", "Nuclear Instrumentation", "Reliability, safety and risk analysis", "Design and modelling of nuclear reactors", "Computational Fluid Dynamics"]
@@ -74,9 +101,9 @@
       "url": "https://www.polimi.it/",
       "area": "Energy Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "2016-09-20",
-      "endDate": "2019-07-21",
-      "score": "110/110 cum laude",
+      "startDate": "2016-10-03",
+      "endDate": "2019-09-27",
+      "score": "107/110",
       "courses": ["Calculus", "Physics (mechanics, thermodynamics, electromagnetism)", "Solid mechanics", "Fluid Mechanics", "Applied Thermodynamics", " Energy Conversion and Fluid machines", "Analytical and numerical methods for engineering"]
     }
   ],
