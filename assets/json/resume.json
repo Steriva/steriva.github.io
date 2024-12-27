@@ -189,6 +189,11 @@
       "name": "Professor Antonio Cammi",
       "icon": "fa-solid fa-laptop",
       "reference": "antonio.cammi@polimi.it"
+    },
+    {
+      "name": "Professor J. Nathan Kutz",
+      "icon": "fa-solid fa-laptop",
+      "reference": "kutz@uw.edu"
     }
   ],
   "publications": [
