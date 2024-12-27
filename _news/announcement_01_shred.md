@@ -27,16 +27,10 @@ Have a look at the videos below to see the SHRED architecture in action:
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=76r6WmOehDM&list=PLSH6dleR9E1C1u2qHTxDDqLlc-q5iN_Z7&index=5" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/video/PaperSHRED_uq_202409/Temperature.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
-</div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=2YdmzPTotww&list=PLSH6dleR9E1C1u2qHTxDDqLlc-q5iN_Z7&index=15" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/watch?v=JYmub3FmssM&list=PLSH6dleR9E1C1u2qHTxDDqLlc-q5iN_Z7&index=4" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/video/PaperSHRED_uq_202409/velocity.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
