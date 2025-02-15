@@ -1,12 +1,16 @@
 ---
 layout: post
-title: PrePrint - SHRED for Nuclear Reactors
+title: PrePrint Available - *Robust State Estimation from Partial Out-Core Measurements with Shallow Recurrent Decoder for Nuclear Reactors*
 date: 2024-09-28 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
 First PrePrint of the SHRED paper on Nuclear Reactors is out! Check it out [here](https://arxiv.org/abs/2409.12550).
+
+**Title:** Robust State Estimation from Partial Out-Core Measurements with Shallow Recurrent Decoder for Nuclear Reactors.
+
+**Authors:** Stefano Riva, Carolina Introini, Antonio Cammi, J. Nathan Kutz
 
 The code is openly available on [GitHub](https://github.com/ERMETE-Lab/NuSHRED).
 
