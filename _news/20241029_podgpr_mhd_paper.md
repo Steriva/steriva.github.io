@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Paper available on ROM for MHD applications! Check it out doi.org/10.1063/5.0230708.
+Paper available on ROM for MHD applications! Check it out [doi.org/10.1063/5.0230708](https://pubs.aip.org/aip/pof/article/36/10/107167/3318390/Application-of-a-non-intrusive-reduced-order).
 
 **Title:** Application of a non-intrusive reduced order modeling approach to magnetohydrodynamics
 

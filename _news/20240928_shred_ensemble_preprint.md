@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-First PrePrint of the SHRED paper on Nuclear Reactors is out! Check it out arxiv.org/abs/2409.12550.
+First PrePrint of the SHRED paper on Nuclear Reactors is out! Check it out [arxiv.org/abs/2409.12550](https://arxiv.org/abs/2409.12550).
 
 **Title:** Robust State Estimation from Partial Out-Core Measurements with Shallow Recurrent Decoder for Nuclear Reactors.
 
