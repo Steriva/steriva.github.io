@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-Paper available from SNA+MC 2024 conference! Check it out [here](https://doi.org/10.1051/epjconf/202430217003).
+Paper available from SNA+MC 2024 conference! Check it out doi.org/10.1051/epjconf/202430217003.
 
 **Title:** Impact of Malfunctioning Sensors on Data-Driven Reduced Order Modelling: Application to Molten Salt Reactors
 
