@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Conference Paper Available - *Impact of Malfunctioning Sensors on Data-Driven Reduced Order Modelling - Application to Molten Salt Reactors*
+title: SNA+MC Paper Available - Malfunctioning Sensors in Data-Driven Reduced Order Modelling
 date: 2024-10-15 16:11:00-0400
 inline: false
 related_posts: false

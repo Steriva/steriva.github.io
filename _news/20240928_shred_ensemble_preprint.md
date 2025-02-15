@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PrePrint Available - *Robust State Estimation from Partial Out-Core Measurements with Shallow Recurrent Decoder for Nuclear Reactors*
+title: PrePrint Available - Ensemble SHRED for Nuclear Reactors
 date: 2024-09-28 16:11:00-0400
 inline: false
 related_posts: false

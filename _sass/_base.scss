@@ -732,65 +732,27 @@ footer.sticky-bottom {
       .preview {
       }
 
-      // .abbr {
-      //   margin-bottom: 0.5rem;
-
-      //   abbr {
-      //     display: inline-block;
-      //     background-color: var(--global-theme-color);
-      //     margin-bottom: 0.5rem;
-
-      //     a {
-      //       color: white;
-
-      //       &:hover {
-      //         text-decoration: none;
-      //       }
-      //     }
-      //   }
-
-      //   .award {
-      //     color: var(--global-theme-color) !important;
-      //     border: 1px solid var(--global-theme-color);
-      //   }
-      // }
-
       .abbr {
         margin-bottom: 0.5rem;
-      
-        /* Default abbr styling */
+
         abbr {
           display: inline-block;
+          background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
-          padding: 3px 7px;
-          border-radius: 5px; /* Optional rounded corners */
-          color: white; /* Text color */
+
+          a {
+            color: white;
+
+            &:hover {
+              text-decoration: none;
+            }
+          }
         }
-      
-        /* Blue for Articles */
-        li.article & abbr {
-          background-color: #007bff !important; /* Blue */
-        }
-      
-        /* Green for InProceedings */
-        li.inproceedings & abbr {
-          background-color: #28a745 !important; /* Green */
-        }
-      
-        /* Red for Books */
-        li.book & abbr {
-          background-color: #dc3545 !important; /* Red */
-        }
-      
-        /* Award styling remains unchanged */
+
         .award {
           color: var(--global-theme-color) !important;
           border: 1px solid var(--global-theme-color);
         }
-      }      
-
-      .title {
-        font-weight: bolder;
       }
 
       .author {

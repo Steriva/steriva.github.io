@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Available - *Application of a non-intrusive reduced order modeling approach to magnetohydrodynamics*
+title: Paper Available - ROM for MHD applications
 date: 2024-10-29 16:11:00-0400
 inline: false
 related_posts: false
