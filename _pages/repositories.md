@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: A list of my repositories.
+description: A list of pinned repositories.
 nav: true
 nav_order: 4
 ---
