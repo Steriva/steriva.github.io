@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Shallow Recurrent Decoders
-description: for State Estimation in Nuclear Reactors
+title: SHRED
+description: Shallow Recurrent Decoders for State Estimation in Nuclear Reactors
 img: assets/img/publication_preview/shred.jpg
 importance: 1
 category: work
