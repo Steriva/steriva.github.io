@@ -1,12 +1,14 @@
 ---
 layout: page
-title: pyforce
+title: ofelia
 description: Openmc-FEnicsx for muLtiphysics tutorIAl
 img:
-importance: 2
+importance: 3
 category: work
 related_publications: true
 ---
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/ERMETE-Lab/MP-OFELIA)
 
 **MP-OFELIA** (OpenMC-FEniCSx for muLtiphysics tutorIAl) is an open-source project developed by the ERMETE Lab at Politecnico di Milano. It serves as a comprehensive educational tool designed to simulate multiphysics scenarios in nuclear engineering by integrating [OpenMC](https://openmc.org/) (version 0.13.2) and [FEniCSx](https://fenicsproject.org/) (version 0.6.0) within a Python environment {% cite LOI2024113480 %}.
 

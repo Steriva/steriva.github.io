@@ -3,10 +3,12 @@ layout: page
 title: pyforce
 description: Python Framework for data-driven model Order Reduction of multi-physiCs problEms
 img: assets/img/publication_preview/immy_pyforce2.png
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/ERMETE-Lab/ROSE-pyforce)
 
 The **ROSE-pyforce** project is a Python framework developed to implement Data-Driven Reduced Order Modeling (DDROM) techniques, specifically targeting multi-physics problems prevalent in nuclear engineering. Built upon the FEniCSx project, ROSE-pyforce leverages the `dolfinx` package for tasks such as mesh generation, integral calculations, and function storage {% cite pyforce2024 %}.
 
@@ -16,7 +18,7 @@ The **ROSE-pyforce** project is a Python framework developed to implement Data-D
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/tie_fighter.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/publication_preview/tie_frighter.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

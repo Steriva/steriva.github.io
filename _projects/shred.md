@@ -8,6 +8,8 @@ category: work
 related_publications: true
 ---
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/ERMETE-Lab/NuSHRED)
+
 The SHallow REcurrent Decoder (SHRED) is an innovative neural network architecture designed to reconstruct high-dimensional spatio-temporal fields from limited sensor measurements. By integrating a Long Short-Term Memory (LSTM) network to capture temporal dynamics and a Shallow Decoder Network (SDN) to map these dynamics back to the original high-dimensional space, SHRED offers a robust solution for scenarios where sensor data is sparse or randomly placed {% cite riva2024robuststateestimationpartial %}.
 
 **Key Features of SHRED:**
