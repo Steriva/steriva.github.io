@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PrePrints Available - SHRED for Nuclear Reactors and Real Experimental Facility
+title: PrePrints Available - SHRED for Molten Salt Reactor and DYNASTY Facility
 date: 2025-03-12 16:11:00-0400
 inline: false
 related_posts: false
@@ -9,7 +9,6 @@ related_posts: false
 I am pleased to announce the release of two new preprints, expanding upon our previous work with the Shallow Recurrent Decoder (SHRED) method for nuclear reactor applications.
 
 Supporting code is openly available on [GitHub](https://github.com/ERMETE-Lab/NuSHRED).
-
 
 **Title**: Towards Efficient Parametric State Estimation in Circulating Fuel Reactors with Shallow Recurrent Decoder Networks
 **Authors**: Stefano Riva, Carolina Introini, J. Nathan Kutz, Antonio Cammi
@@ -21,12 +20,12 @@ Supporting code is openly available on [GitHub](https://github.com/ERMETE-Lab/Nu
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/publication_preview/ParametricMSFR_SHRED/T.gif" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        <img src="{{ '/assets/img/publication_preview/ParametricMSFR_SHRED/T.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Parametric MSFR SHRED - T">
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/publication_preview/ParametricMSFR_SHRED/U.gif" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        <img src="{{ '/assets/img/publication_preview/ParametricMSFR_SHRED/U.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="Parametric MSFR SHRED - U">
     </div>
 </div>
 
@@ -40,6 +39,6 @@ Supporting code is openly available on [GitHub](https://github.com/ERMETE-Lab/Nu
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/publication_preview/DYNASTYParametricValidation.gif" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        <img src="{{ '/assets/img/publication_preview/DYNASTYParametricValidation.gif' | relative_url }}" class="img-fluid rounded z-depth-1" alt="DYNASTY Parametric Validation">
     </div>
 </div>
